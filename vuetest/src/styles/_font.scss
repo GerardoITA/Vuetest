@@ -1,0 +1,42 @@
+@import url('https: //fonts.googleapis.com/css2?family=Sora');
+$font-main: 'Sora', sans-serif;
+body {
+    font-family: $font-main;
+}
+.display-l {
+    font-size: 48px; 
+    line-height: 56px;
+    font-weight: 600;
+}
+.display-m {
+    font-size: 32px;
+    line-height: 36px;
+    font-weight: 600;
+}
+.display-s {
+    font-size: 24px;
+    line-height: 28px;
+    font-weight: 600;
+}
+.body-l {
+    font-size: 24px;
+    line-height: 32px;
+
+}
+
+.body-m {
+    font-size: 16px;
+    line-height: 24px;
+
+}
+
+.body-s {
+    font-size: 12px;
+    line-height: 16px;
+
+}
+.body-xs {
+    font-size: 8px;
+    line-height: 12px;
+
+}

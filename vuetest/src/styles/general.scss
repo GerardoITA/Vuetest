@@ -1,38 +1,6 @@
 @import 'variables';
+@import 'colours';
+@import 'spacing';
+@import 'font';
 
-////////COLORI
-.c-accent {
-    color: $accent;
-   
-}
-.c-accent-light {
-    color: $accent-light;
-}
-
-.c-accent-dark {
-    color: $accent-dark;
-}
-
-.c-light {
-    color: $light;
-}
-
-.c-light-grey {
-    color: $light-grey;
-}
-
-.c-dark-grey {
-    color: $dark-grey;
-}
-
-.c-dark {
-    color: $dark;
-}
-
-.c-black {
-    color: $black;
-}
-
-.c-white {
-    color: $white;
-}
+////////SPACING
